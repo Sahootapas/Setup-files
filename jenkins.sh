@@ -8,5 +8,4 @@ sudo yum install java-17 -y
 sudo yum install jenkins  -y
 sudo systemctl daemon-reload
 sudo systemctl  enable --now   jenkins.service
-jenkins -version 
 lsof -i -n -P | grep 8080
