@@ -17,3 +17,5 @@ sudo usermod  -d /opt/sonarqube  sonar
 #sh sonar.sh  start 
 #sh sonar.sh status 
 #9000-port
+#username - admin 
+#password -  admin
