@@ -16,3 +16,4 @@ sudo usermod  -d /opt/sonarqube  sonar
 # cd bin/linux-x86-64
 #sh sonar.sh  start 
 #sh sonar.sh status 
+#9000-port
